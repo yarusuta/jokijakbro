@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.selamat{
+    padding-bottom: 10%;
+    font-size:50px;
+    font-weight:700 ;
+}
+.logodanselamat{
+    color: aliceblue;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.kontainer{
+    display: flex;
+justify-content: center;
+align-items: center;
+    color: rgb(0, 0, 0);
+}
+.logo{
+    padding-left: 6%;
+    background-image:url(Untitled-1.png);
+    width:fit-content;
+}
+
+.logo-{
+    width: 100px;
+}
+.logo-atas{
+    width: 200px;
+}
